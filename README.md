@@ -46,6 +46,15 @@ Sending a widget as a funny gift is a clever way to blend humor with practicalit
 | Browsers              | JavaScript, TypeScript          | Progressive Web Apps (PWAs), Web Widgets, Chrome Extensions                                   | Bookmarks Manager, To-Do List, Real-Time Collaboration Widgets                  |
 
 #
+### Python Windows
+
+![Round_Python_Window](https://github.com/user-attachments/assets/6ebbdd18-c391-4319-bdaf-d0fc087ab06a)
+
+Round Python windows often appear pixelated because of the way Windows handles rendering with default libraries like Tkinter. These libraries rely on basic bitmap graphics where curved edges are approximated using a grid of pixels, leading to jagged or pixelated edges when magnified. Additionally, the anti-aliasing techniques in such frameworks are limited compared to modern rendering engines, which can make the edges of circular elements less smooth. This effect is exacerbated on displays with low pixel density.
+
+In contrast, round JavaScript windows or shapes in web environments often appear smoother because they leverage modern rendering techniques like vector graphics and hardware acceleration provided by browsers. Using CSS properties like border-radius or SVG elements, these environments can create smooth, scalable curves that adapt seamlessly to high-resolution displays. Browsers also employ advanced anti-aliasing methods, ensuring a polished appearance.
+
+#
 ![Widgets](https://github.com/user-attachments/assets/f5d1fd09-7581-471f-8eec-1d3df764c0af)
 
 #
