@@ -1,4 +1,4 @@
-![Widgets](https://github.com/user-attachments/assets/f4c36543-34f0-4db9-a49a-e87b5fd61568)
+![Widgets](https://github.com/user-attachments/assets/79ada149-2cb2-483a-922c-e35a5960e87c)
 
 > Assistive widget development for any OS. (Windows, Linux, macOS, Android, Web and more)
 #
