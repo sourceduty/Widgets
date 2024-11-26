@@ -24,7 +24,7 @@ From a design perspective, creating oversized, humorous widgets requires a caref
 #
 ### Gift Idea
 
-![USB](https://github.com/user-attachments/assets/e4dc76c6-fd60-42a6-b7ae-5ca42c0ab520)
+![USB](https://github.com/user-attachments/assets/56f1d2dc-9dfe-4c85-827e-4c8b2100fa4c)
 
 Sending a widget as a funny gift is a clever way to blend humor with practicality, especially if the widget serves a quirky or unexpected purpose. For instance, you could gift a friend a weather widget that always shows “100% chance of procrastination” or a calorie tracker widget disguised as a digital dessert counter. Personalizing the widget to reflect an inside joke or your recipient’s unique quirks—like a to-do list widget that sarcastically encourages them to "procrastinate later"—adds an extra layer of charm. It’s a lighthearted and tech-savvy way to give a laugh while also gifting something they might actually use.
 
