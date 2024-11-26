@@ -10,19 +10,19 @@ Beyond development, this GPT also helps diagnose common issues, such as performa
 #
 ### Widgets and OSs
 
-| Operating System      | Widget Frameworks/Technologies                                                                  | Widget Examples                                                                   |
-|-----------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Windows               | UWP (Universal Windows Platform), WPF (Windows Presentation Foundation), .NET MAUI             | Calendar, Weather, Stock Tracker, System Monitor                                |
-| macOS                 | AppKit, SwiftUI                                                                               | Clock, Music Controller, Sticky Notes, Reminders                                |
-| iOS                   | SwiftUI, WidgetKit                                                                            | Health Data, Activity Tracker, Calendar, Notes                                  |
-| Android               | Android Widgets (XML layouts, Jetpack Compose), Flutter                                       | Weather, Media Player, Clock, Fitness Tracker                                   |
-| Linux                 | GTK, Qt, Conky                                                                                | System Monitor, Calendar, RSS Feed, Network Statistics                          |
-| Web                   | HTML/CSS/JavaScript (React, Vue, Angular)                                                     | Cryptocurrency Prices, News Feed, Social Media Integrations                     |
-| Cross-Platform        | Flutter, React Native, Xamarin, .NET MAUI                                                     | Unified UI widgets like News Feeds, Weather, Multi-platform Timers              |
-| Wearables             | WatchKit (Apple Watch), Wear OS Widgets (Jetpack Compose, Tiles), Tizen (Samsung)             | Heart Rate Monitor, Step Counter, Notifications                                 |
-| Smart TVs             | Tizen, webOS, Android TV, Roku SDK                                                            | Media Controller, Content Suggestions, Weather                                  |
-| Gaming Consoles       | Xbox SDK (Windows), PlayStation SDK (Orbis OS), Nintendo Switch Development                   | Achievement Trackers, Social Notifications, Media Player                        |
-| Browsers              | Progressive Web Apps (PWAs), Web Widgets, Chrome Extensions                                   | Bookmarks Manager, To-Do List, Real-Time Collaboration Widgets                  |
+| Operating System      | Languages                       | Widget Frameworks/Technologies                                                                  | Widget Examples                                                                   |
+|-----------------------|----------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Windows               | C#, Python, JavaScript          | UWP (Universal Windows Platform), WPF (Windows Presentation Foundation), .NET MAUI             | Calendar, Weather, Stock Tracker, System Monitor                                |
+| macOS                 | Swift, Objective-C              | AppKit, SwiftUI                                                                               | Clock, Music Controller, Sticky Notes, Reminders                                |
+| iOS                   | Swift, Objective-C              | SwiftUI, WidgetKit                                                                            | Health Data, Activity Tracker, Calendar, Notes                                  |
+| Android               | Kotlin, Java, Dart              | Android Widgets (XML layouts, Jetpack Compose), Flutter                                       | Weather, Media Player, Clock, Fitness Tracker                                   |
+| Linux                 | C++, Python, JavaScript         | GTK, Qt, Conky                                                                                | System Monitor, Calendar, RSS Feed, Network Statistics                          |
+| Web                   | JavaScript, TypeScript          | HTML/CSS/JavaScript (React, Vue, Angular)                                                     | Cryptocurrency Prices, News Feed, Social Media Integrations                     |
+| Cross-Platform        | Dart, JavaScript, C#, Kotlin    | Flutter, React Native, Xamarin, .NET MAUI                                                     | Unified UI widgets like News Feeds, Weather, Multi-platform Timers              |
+| Wearables             | Swift, Kotlin, JavaScript, C    | WatchKit (Apple Watch), Wear OS Widgets (Jetpack Compose, Tiles), Tizen (Samsung)             | Heart Rate Monitor, Step Counter, Notifications                                 |
+| Smart TVs             | JavaScript, C++, Kotlin, Java   | Tizen, webOS, Android TV, Roku SDK                                                            | Media Controller, Content Suggestions, Weather                                  |
+| Gaming Consoles       | C++, C#, JavaScript             | Xbox SDK (Windows), PlayStation SDK (Orbis OS), Nintendo Switch Development                   | Achievement Trackers, Social Notifications, Media Player                        |
+| Browsers              | JavaScript, TypeScript          | Progressive Web Apps (PWAs), Web Widgets, Chrome Extensions                                   | Bookmarks Manager, To-Do List, Real-Time Collaboration Widgets                  |
 
 #
 ![Widgets](https://github.com/user-attachments/assets/f5d1fd09-7581-471f-8eec-1d3df764c0af)
