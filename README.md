@@ -25,6 +25,9 @@ Beyond development, this GPT also helps diagnose common issues, such as performa
 | Browsers              | Progressive Web Apps (PWAs), Web Widgets, Chrome Extensions                                   | Bookmarks Manager, To-Do List, Real-Time Collaboration Widgets                  |
 
 #
+![Widgets](https://github.com/user-attachments/assets/f5d1fd09-7581-471f-8eec-1d3df764c0af)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
