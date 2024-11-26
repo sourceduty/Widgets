@@ -1,6 +1,6 @@
 ![Widgets](https://github.com/user-attachments/assets/f4c36543-34f0-4db9-a49a-e87b5fd61568)
 
-> Assistive widget development for any OS. (Windows, Linux, macOS, Andorid, Web and more)
+> Assistive widget development for any OS. (Windows, Linux, macOS, Android, Web and more)
 #
 
 [Widgets](https://chatgpt.com/g/g-6745a4a9f5988191ba97363d17c4cd8d-widgets) specializes in guiding users through the development, optimization, and troubleshooting of assistive widgets for any operating system. Whether you’re creating a weather dashboard for Android, a note-taking widget for iOS, or a productivity tool for desktop environments, this GPT provides step-by-step assistance to ensure your widget is efficient, user-friendly, and aesthetically pleasing. It focuses on integrating best practices, such as optimizing for low latency, responsiveness, and accessibility, while ensuring seamless compatibility with the chosen OS. Additionally, it offers creative design suggestions, ensuring that your widget aligns with the latest trends and enhances user engagement.
