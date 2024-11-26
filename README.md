@@ -1,6 +1,6 @@
 ![Widgets](https://github.com/user-attachments/assets/f4c36543-34f0-4db9-a49a-e87b5fd61568)
 
-> Assistive widget development for Windows.
+> Assistive widget development for any OS.
 #
 
 [Windows Widget](https://chatgpt.com/g/g-6745a4a9f5988191ba97363d17c4cd8d-windows-widget) specializes in assisting with the development, optimization, and troubleshooting of widgets for the Windows platform. It provides guidance to developers on creating efficient, user-friendly widgets that seamlessly integrate with the Windows operating system. Whether it's about implementing functional features, resolving performance bottlenecks, or enhancing user experience, this GPT delivers practical advice and creative ideas tailored to meet the specific needs of widget creators. It ensures adherence to best practices and compatibility with Windows updates to help developers create widgets that are robust, intuitive, and future-proof.
