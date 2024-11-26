@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1,
+  "name": "Round Clock Widget",
+  "description": "A simple round clock widget for Windows",
+  "version": "1.0",
+  "start_url": "index.html",
+  "background_color": "#282c34",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
