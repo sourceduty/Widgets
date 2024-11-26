@@ -1,0 +1,12 @@
+{
+  "name": "smiley-widget",
+  "version": "1.0.0",
+  "description": "Funny Mood Swing Smiley Widget",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^26.0.0"
+  }
+}
