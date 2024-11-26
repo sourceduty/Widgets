@@ -7,6 +7,13 @@
 
 Beyond development, this GPT also helps diagnose common issues, such as performance bottlenecks, compatibility errors, or interface glitches. It assists in debugging code, refining user interfaces, and implementing features that comply with platform-specific guidelines. By tailoring its recommendations to your specific needs, it empowers you to build widgets that stand out, whether for personal projects or professional applications. With a focus on usability, innovation, and system efficiency, this GPT serves as a comprehensive resource for widget developers at all skill levels.
 
+```
+Create a widget.
+What are best practices for cross-platform widgets?
+Create a funny widget.
+Print a widget development cheat sheet.
+```
+
 #
 ### Funny Widgets
 
