@@ -55,6 +55,8 @@ Round Python windows often appear pixelated because of the way Windows handles r
 In contrast, round JavaScript windows or shapes in web environments often appear smoother because they leverage modern rendering techniques like vector graphics and hardware acceleration provided by browsers. Using CSS properties like border-radius or SVG elements, these environments can create smooth, scalable curves that adapt seamlessly to high-resolution displays. Browsers also employ advanced anti-aliasing methods, ensuring a polished appearance.
 
 #
+![Window](https://github.com/user-attachments/assets/eea3e8a9-f188-4c32-89b1-87c96bcaa00f)
+#
 ![Widgets](https://github.com/user-attachments/assets/f5d1fd09-7581-471f-8eec-1d3df764c0af)
 
 #
